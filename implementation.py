@@ -13,7 +13,7 @@ def evaluate(filepath,language):
   lines = file.readlines()
   file.close()
 
-
+   
   #look for patterns
   countgets =0
   # countSTRNC =0
